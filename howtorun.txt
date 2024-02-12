@@ -1,0 +1,20 @@
+1. node index.js
+2. install appnya di ngobrolonlen
+3. masukkin hostnya ip windows, port 3000
+4. run mitmclient.py
+5. berkomunikasilah
+
+
+peer2peer
+1. node index.js
+2. device 1 masukkin host ip windows port 3000, client
+3. device 2 masukkin yg sama, host
+4. berkomunikasilah
+
+mitm
+1. node index.js
+2. run python tempgui.py
+3. device 1 masukin host ip windows port 3001, client
+4. device 2 masukin port 3000, host
+5. set to server then set to client
+6. berkomunikasilah
