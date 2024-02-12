@@ -13,7 +13,7 @@ peer2peer
 
 mitm
 1. node index.js
-2. run python tempgui.py
+2. run python mitm-gui.py
 3. device 1 masukin host ip windows port 3001, client
 4. device 2 masukin port 3000, host
 5. set to server then set to client
